@@ -1,13 +1,13 @@
 {
-  "name": "markup",
+  "name": "gulp-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gulp.js boilerplate",
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp build",
     "start": "gulp start"
   },
-  "author": "",
+  "author": "Kamal Abdulfattah Asfera",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.18.13",
